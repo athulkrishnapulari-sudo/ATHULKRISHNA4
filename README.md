@@ -7,3 +7,5 @@ The program is simple to use. Just select a choice from the main menu and follow
 MY LEARNING JOURNEY
 
 I have studied Python before and understood the logic of the code, but I had forgotten how some of the built-in Python functions work. Throughout this project, I read the Python documentation carefully and revisited the functionality of these functions, which helped me strengthen my understanding and apply them effectively.
+Also I came to know about Eception Handling in python using try -except blocks
+Also I came to know about Json files .Previously, I had worked on a school project using binary and CSV files
